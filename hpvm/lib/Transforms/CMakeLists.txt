@@ -1,0 +1,7 @@
+add_subdirectory(BuildDFG)
+add_subdirectory(ClearDFG)
+add_subdirectory(DFG2LLVM_OpenCL)
+add_subdirectory(DFG2LLVM_CPU)
+add_subdirectory(GenHPVM)
+add_subdirectory(LocalMem)
+add_subdirectory(Spandex)
